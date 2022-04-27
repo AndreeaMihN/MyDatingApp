@@ -48,6 +48,8 @@ export class MemberDetailComponent implements OnInit {
     return imageUrls;
   }
 
+  mik
+
   loadMember() {
     this.memberService
       .getMember(this.route.snapshot.paramMap.get('username'))
