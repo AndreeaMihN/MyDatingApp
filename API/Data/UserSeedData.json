@@ -1,6 +1,6 @@
 [
   {
-    "Username": "Lisa",
+    "UserName": "Lisa",
     "Gender": "female",
     "DateOfBirth": "1976-02-18",
     "KnownAs": "Lisa",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "Username": "Lilia",
+    "UserName": "Lilia",
     "Gender": "female",
     "DateOfBirth": "1997-11-17",
     "KnownAs": "Lilia",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "Username": "Samantha",
+    "UserName": "Samantha",
     "Gender": "female",
     "DateOfBirth": "1988-04-10",
     "KnownAs": "Samantha",
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "Username": "Ines",
+    "UserName": "Ines",
     "Gender": "female",
     "DateOfBirth": "1982-06-09",
     "KnownAs": "Ines",
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "Username": "Latonya",
+    "UserName": "Latonya",
     "Gender": "female",
     "DateOfBirth": "1990-02-01",
     "KnownAs": "Latonya",
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "Username": "Andrews",
+    "UserName": "Andrews",
     "Gender": "male",
     "DateOfBirth": "1952-09-25",
     "KnownAs": "Andrews",
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "Username": "Roberts",
+    "UserName": "Roberts",
     "Gender": "male",
     "DateOfBirth": "1986-08-03",
     "KnownAs": "Roberts",
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "Username": "Bass",
+    "UserName": "Bass",
     "Gender": "male",
     "DateOfBirth": "1989-11-08",
     "KnownAs": "Bass",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "Username": "Bishop",
+    "UserName": "Bishop",
     "Gender": "male",
     "DateOfBirth": "1992-09-12",
     "KnownAs": "Bishop",
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "Username": "Reynolds",
+    "UserName": "Reynolds",
     "Gender": "male",
     "DateOfBirth": "1969-11-30",
     "KnownAs": "Reynolds",
