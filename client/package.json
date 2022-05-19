@@ -26,9 +26,9 @@
     "font-awesome": "^4.7.0",
     "ng2-file-upload": "^1.4.0",
     "ngx-bootstrap": "^7.1.2",
-    "ngx-spinner": "^10.0.0",
+    "ngx-spinner": "^11.0.2",
     "ngx-timeago": "^2.0.0",
-    "ngx-toastr": "^10.0.4",
+    "ngx-toastr": "^12.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
